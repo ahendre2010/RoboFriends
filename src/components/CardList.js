@@ -3,8 +3,8 @@ import Card from "./Card";
 
 const CardList = ({ robots }) => {
   return (
-    //Fragments <Fragments> </Fragments> or <> </>
-    <>
+    //Fragment <Fragment> </Fragment> or <> </>
+    <Fragment>
       {robots.map((user, i) => {
         return (
           <Card
@@ -15,7 +15,7 @@ const CardList = ({ robots }) => {
           />
         );
       })}
-    </>
+    </Fragment>
   );
 };
 
