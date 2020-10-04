@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://ahendre2010.github.io/RoboFriends",
+  "homepage": "https://ahendre2010.github.io/robofriends",
   "dependencies": {
     "react": "16.13.1",
     "react-dom": "16.13.1",
